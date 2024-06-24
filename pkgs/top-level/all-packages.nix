@@ -17911,7 +17911,8 @@ with pkgs;
     electron_27-bin
     electron_28-bin
     electron_29-bin
-    electron_30-bin;
+    electron_30-bin
+    electron_31-bin;
 
   electron_24 = electron_24-bin;
   electron_27 = electron_27-bin;
